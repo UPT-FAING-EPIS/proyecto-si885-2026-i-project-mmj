@@ -12,7 +12,7 @@
 
 La deserción universitaria es un problema crítico en Perú. Investigaciones registradas en [RENATI](https://renati.sunedu.gob.pe/) indican que factores como el rendimiento en ciclos iniciales y la carga crediticia son determinantes para el abandono. Sin embargo, estos datos suelen estar aislados en los sistemas de gestión académica.
 
-En [ProblemHunt](https://problemhunt.pro/), se han planteado retos sobre cómo las universidades pueden usar sus datos históricos para retener estudiantes, pero la mayoría carece de una vista unificada. Por otro lado, [Radio Uno](https://radiouno.pe/) ha cubierto recientemente debates sobre la calidad educativa y la necesidad de usar tecnología para evitar la fuga de talentos. En el repositorio institucional [UPT-FAING-EPIS](https://github.com/UPT-FAING-EPIS/) existen scripts y estructuras que pueden servir de referencia o base para el manejo de datos de notas y matrículas.
+En [ProblemHunt](https://problemhunt.pro/), se han planteado retos sobre cómo las universidades pueden usar sus datos históricos para retener estudiantes, pero la mayoría carece de una vista unificada. Por otro lado, [Radio Uno](https://radiouno.pe/) ha cubierto recientemente debates sobre la calidad educativa y la necesidad de usar tecnología para evitar la fuga de talentos. 
 
 * **El problema específico es:** Las universidades detectan la deserción cuando el alumno ya ha solicitado el retiro oficial, sin haber identificado patrones de alerta temprana (asistencia irregular, notas bajas progresivas o reprobación reiterada de pre-requisitos).
 
